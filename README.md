@@ -16,5 +16,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+## Contact
+
+[<img height="25" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" />][LinkedIn]
+[<img height="25" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF" />][Gmail]
+
+[LinkedIn]:https:/// 
+[Gmail]:mailto:
+
 
 
