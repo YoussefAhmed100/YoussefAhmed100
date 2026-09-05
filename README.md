@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E0234E&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;NestJS+%7C+Go+%7C+Microservices;Building+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E0234E&center=true&vCenter=true&width=600&lines=Backend+Engineer+%F0%9F%9A%80;NestJS+%7C+Go+%7C+Microservices;Building+Scalable+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -38,5 +38,5 @@
 [<img height="25" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" />][LinkedIn]
 [<img height="25" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF" />][Gmail]
 
-[LinkedIn]: https://
-[Gmail]: mailto:
+[LinkedIn]: https://www.linkedin.com/in/youssef-ahmed-m7/
+[Gmail]: mailto:youssefahmed16110@gmail.com
